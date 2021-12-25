@@ -1,0 +1,22 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/data/data/com.termux/files/home/.git/info
+1=/data/data/com.termux/files/home/.git/hooks
+2=/data/data/com.termux/files/home/.git/refs
+3=/data/data/com.termux/files/home/.git
+4=/data/data/com.termux/files/home/curso_python.py/.git/hooks
+5=/data/data/com.termux/files/home/curso_python.py/.git
+6=/data/data/com.termux/files/home/curso_python.py
+7=/data/data/com.termux/files/home/storage/shared/proyect_course
+8=/data/data/com.termux/files/home
+
+[Dir Hist New Left Panel]
+0=/data/data/com.termux/files/home/.git/hooks
+1=/data/data/com.termux/files/home/.git
+2=/data/data/com.termux/files/home/curso_python.py/.git
+3=/data/data/com.termux/files/home/storage/shared/proyect_course
+4=/data/data/com.termux/files
+5=/data/data/com.termux/files/home/storage
+6=/data/data/com.termux/files/home
